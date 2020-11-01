@@ -1,0 +1,133 @@
+{
+	"entity": [
+		{
+			"client": {
+				"idClient": 0,
+				"adresse": "28586 Gorczany Extension"
+			}
+		},
+		{
+			"client": {
+				"idClient": 1,
+				"adresse": "6218 Haley Haven"
+			}
+		},
+		{
+			"entreprise": {
+				"idClient": 2,
+				"adresse": "159 Elfrieda Center",
+				"nom": "Conn, Rolfson and Ward",
+				"phone": "(333) 239-2002 x4957",
+				"fax": "(478) 973-8899 x5766",
+				"details": {
+					"rue": "Kilback Rapids",
+					"ville": "East Helga",
+					"province": "Indiana"
+				},
+				"contact": {
+					"prenom": "Mary",
+					"nom": "Stracke",
+					"email": "Lydia.Willms@hotmail.com"
+				}
+			}
+		},
+		{
+			"individu": {
+				"idClient": 3,
+				"adresse": "075 Lucas Island",
+				"prenom": "Lon",
+				"nom": "Veum",
+				"email": "Evans74@hotmail.com",
+				"details": {
+					"rue": "Tianna Drive",
+					"ville": "Lednerview",
+					"province": "Florida"
+				}
+			}
+		},
+		{
+			"individu": {
+				"idClient": 4,
+				"adresse": "25991 Devin Place",
+				"prenom": "Kenny",
+				"nom": "Funk",
+				"email": "Kaylah68@yahoo.com",
+				"details": {
+					"rue": "Kade Ranch",
+					"ville": "Lake Hertha",
+					"province": "Tennessee"
+				}
+			}
+		},
+		{
+			"droitProduit": {
+				"produit": {
+					"id": 0,
+					"nom": "Danial",
+					"description": "Small Wooden Chair"
+				},
+				"droit": {
+					"idDroit": 0,
+					"dateDebut": "2020-04-01T04:00:31.471Z",
+					"dateFin": "2021-10-27T04:39:22.939Z"
+				}
+			}
+		},
+		{
+			"droitProduit": {
+				"produit": {
+					"id": 1,
+					"nom": "Foster",
+					"description": "Practical Soft Table"
+				},
+				"droit": {
+					"idDroit": 1,
+					"dateDebut": "2019-12-07T17:17:35.748Z",
+					"dateFin": "2020-12-18T11:05:11.287Z"
+				}
+			}
+		},
+		{
+			"droitProduit": {
+				"produit": {
+					"id": 2,
+					"nom": "Leonardo",
+					"description": "Handcrafted Frozen Chicken"
+				},
+				"droit": {
+					"idDroit": 2,
+					"dateDebut": "2019-11-02T15:11:53.602Z",
+					"dateFin": "2020-12-26T07:35:28.934Z"
+				}
+			}
+		},
+		{
+			"droitProduit": {
+				"produit": {
+					"id": 3,
+					"nom": "Cristian",
+					"description": "Awesome Steel Ball"
+				},
+				"droit": {
+					"idDroit": 3,
+					"dateDebut": "2020-05-12T18:35:54.116Z",
+					"dateFin": "2021-05-12T17:13:57.078Z"
+				}
+			}
+		},
+		{
+			"droitProduit": {
+				"produit": {
+					"id": 4,
+					"nom": "Kraig",
+					"description": "Sleek Wooden Shoes"
+				},
+				"droit": {
+					"idDroit": 4,
+					"dateDebut": "2020-03-18T18:06:17.912Z",
+					"dateFin": "2021-02-06T00:32:48.544Z"
+				}
+			}
+		}
+	]
+}
